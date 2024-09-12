@@ -8,6 +8,6 @@ The main issue with this method is that big countries like Brasil, Canada, China
 
 Other key points:
 
-- We've left out Okinawan and Jeju, because they have fewer than 10,000 speakers and make up less than 1% of their country's population.
+- We've left out Okinawan and Jeju, because they have fewer than 10,000 speakers and make up less than 1% of their countries' population.
 - Some tongues here are undergoing creolisation, like Kongo [kon], which is shifting into Kituba [ktu, mkw].
 - For now, we've grouped all Nahuatl tongues together.
